@@ -4,5 +4,8 @@ This project involves the construction a solid propellant potassium nitrate mode
 
 - 3D pdf of the assembly of the rocket (download them with adobe acrobat to be able to view)
 - A mp4 video of the initial stage of the project
-  
+
+![image](https://github.com/Guillaume-mcgill/rocket/assets/118313328/c20b29a7-5e11-4fa5-bbdc-ccbe461b2ec7)
+
+
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/KFnMKojpYFU/0.jpg)](https://www.youtube.com/watch?v=KFnMKojpYFU)
