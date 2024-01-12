@@ -4,3 +4,4 @@ This project involves the construction a solid propellant potassium nitrate mode
 
 - 3D pdf of the assembly of the rocket (download them with adobe acrobat to be able to view)
 - A mp4 video of the initial stage of the project
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=KFnMKojpYFU)
