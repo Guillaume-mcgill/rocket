@@ -4,7 +4,7 @@
 This project involves the construction a solid propellant potassium nitrate model rocket. The project was started for the final project in high school and continued for fun during CEGEP. The folder contains:
 
 - 3D pdf of the assembly of the rocket (download them with adobe acrobat to be able to view)
-- A mp4 video of the initial stage of the project
+- A mp4 video of the initial stages of the project
 
 ![image](https://github.com/Guillaume-mcgill/rocket/assets/118313328/c20b29a7-5e11-4fa5-bbdc-ccbe461b2ec7)
 ![image](https://github.com/Guillaume-mcgill/rocket/assets/118313328/8d869a42-3649-4143-95fd-7a550ea34bc2)
